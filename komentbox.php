@@ -164,6 +164,18 @@ if (!class_exists('NLPCaptcha')) {
         
        
     } // end class declaration
+	
+	
+	function komentbox_page_identifier($post) {
+    return $post->ID . ' ' . $post->guid;
+}
+
+	function komentbox_page_title($post) {
+    $title = get_the_title($post);
+    $title = strip_tags($title);
+    return $title;
+}
+
 } // end of class exists clause
 
 ?>
