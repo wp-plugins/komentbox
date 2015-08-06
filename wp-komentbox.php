@@ -3,7 +3,7 @@
 Plugin Name: WP-komentbox
 Plugin URI: http://www.nlpcaptcha.in/integration/wordpress
 Description: Integrates NLPCaptcha anti-spam solutions with wordpress
-Version: 1.1
+Version: 2.1
 Author: NLPCaptcha
 Email: support@nlpcaptcha.com
 Author URI: http://www.nlpcaptcha.in
