@@ -1,6 +1,6 @@
 === KomentBox Comment System ===
 Contributors: NLPCaptcha
-Tags: comments, threaded, email, comment, widget, komentbox, nlpcaptcha, captcha
+Tags: comments, commentbox, comment box, threaded, email, comment, widget, komentbox, nlpcaptcha, captcha
 Requires at least: 2.7
 Tested up to: 4.2.3
 Stable tag: 3.1.6
